@@ -1,8 +1,8 @@
 # Nilmar Lanna
 ## :pushpin: **About me**
 
-I'm 26 years old, graduating in Mechatronics Engineering
-
+Graduando em Engenharia Mecatrônica - UFSJ
+Estagio em Desenvolvimento de Softwares pela PSV Sistemas
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=nilmarlanna&theme=tokyonight)
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nilmarlanna&theme=tokyonight)](https://github.com//nilmarlanna)
