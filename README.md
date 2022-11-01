@@ -3,9 +3,11 @@
 
 - Graduando em Engenharia Mecatrônica - UFSJ
 - Estagio em Desenvolvimento de Softwares - PSV Engenharia de Sistemas
-
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=nilmarlanna&theme=tokyonight)
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nilmarlanna&theme=tokyonight)](https://github.com//nilmarlanna)
+<div align="center">
+  <a href="https://github.com/nilmarlanna">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nilmarlanna&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilmarlanna&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-NilmarLanna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nilmarlanna/)](https://www.linkedin.com/in/nilmarlanna/) [![Outlook Badge](https://img.shields.io/badge/-nilmar.lanna@outlook.com.br-c14438?style=flat-square&logo=Outlook&logoColor=white&link=mailto:nilmar.lanna@outlook.com.br)](mailto:nilmar.lanna@outlook.com.br)
