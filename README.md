@@ -9,9 +9,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilmarlanna&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
-  ##
- 
-<[![Linkedin Badge](https://img.shields.io/badge/-NilmarLanna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nilmarlanna/)](https://www.linkedin.com/in/nilmarlanna/)  [![Outlook Badge](https://img.shields.io/badge/-nilmar.lanna@outlook.com.br-3871c1?style=flat-square&logo=Outlook&logoColor=white&link=mailto:nilmar.lanna@outlook.com.br)](mailto:nilmar.lanna@outlook.com.br)>
+
 
 
 ## :books: Learning: Technologies and Tools
@@ -27,3 +25,7 @@
   <img align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Linux" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </div>
+
+ ##  Contact
+ 
+[![Linkedin Badge](https://img.shields.io/badge/-NilmarLanna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nilmarlanna/)](https://www.linkedin.com/in/nilmarlanna/)  [![Outlook Badge](https://img.shields.io/badge/-nilmar.lanna@outlook.com.br-3871c1?style=flat-square&logo=Outlook&logoColor=white&link=mailto:nilmar.lanna@outlook.com.br)](mailto:nilmar.lanna@outlook.com.br) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:nilmar.lanna@aluno.ufsj.edu.br)]
