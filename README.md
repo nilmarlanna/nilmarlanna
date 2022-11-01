@@ -11,9 +11,8 @@
   
   ##
  
- <div align="center">
-[![Linkedin Badge](https://img.shields.io/badge/-NilmarLanna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nilmarlanna/)](https://www.linkedin.com/in/nilmarlanna/) [![Outlook Badge](https://img.shields.io/badge/-nilmar.lanna@outlook.com.br-3871c1?style=flat-square&logo=Outlook&logoColor=white&link=mailto:nilmar.lanna@outlook.com.br)](mailto:nilmar.lanna@outlook.com.br)
-</div>
-  
+
+[![Linkedin Badge](https://img.shields.io/badge/-NilmarLanna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nilmarlanna/)](https://www.linkedin.com/in/nilmarlanna/) [![Outlook Badge]([https://img.shields.io/badge/-nilmar.lanna@outlook.com.br-3871c1?style=flat-square&logo=Outlook&logoColor=white](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)&link=mailto:nilmar.lanna@outlook.com.br)](mailto:nilmar.lanna@outlook.com.br)
+
 ## :books: Learning: Technologies and Tools
 
