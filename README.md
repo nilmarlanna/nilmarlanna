@@ -12,7 +12,12 @@
   ##
  
 
-[![Linkedin Badge](https://img.shields.io/badge/-NilmarLanna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nilmarlanna/)](https://www.linkedin.com/in/nilmarlanna/)  [![Outlook Badge](https://img.shields.io/badge/-nilmar.lanna@outlook.com.br-c14438?style=flat-square&logo=Outlook&logoColor=white&link=mailto:nilmar.lanna@outlook.com.br)](mailto:nilmar.lanna@outlook.com.br)
+[![Linkedin Badge](https://img.shields.io/badge/-NilmarLanna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nilmarlanna/)](https://www.linkedin.com/in/nilmarlanna/)  [![Outlook Badge](https://img.shields.io/badge/-nilmar.lanna@outlook.com.br-3871c1?style=flat-square&logo=Outlook&logoColor=white&link=mailto:nilmar.lanna@outlook.com.br)](mailto:nilmar.lanna@outlook.com.br)
 
 ## :books: Learning: Technologies and Tools
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+  
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+          
