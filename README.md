@@ -2,7 +2,7 @@
 ## :pushpin: **About me**
 
 - Graduando em Engenharia Mecatrônica - UFSJ
-- Estagio em Desenvolvimento de Softwares - PSV Engenharia de Sistemas
+- Programador Pleno - PSV Engenharia de Sistemas
 <div align="center">
   <a href="https://github.com/nilmarlanna">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nilmarlanna&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
