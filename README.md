@@ -1,8 +1,8 @@
 # Nilmar Lanna
 ## :pushpin: **About me**
 
-- Graduando em Engenharia Mecatrônica - UFSJ
-- Programador Pleno - PSV Engenharia de Sistemas
+- Engenharia Mecatrônica - UFSJ
+- Desenvolvedor Full Stack
 <div align="center">
   <a href="https://github.com/nilmarlanna">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nilmarlanna&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
